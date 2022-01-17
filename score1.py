@@ -9,5 +9,6 @@
 import numpy as np
 
 def dp(A,B): #cost matrix
-  
+  a = len(A)
+  b = len(B)
   
